@@ -1,0 +1,13 @@
+C:\Users\iron-\Documents\C# Course\bin\Debug\netcoreapp3.1\C# Course.exe
+C:\Users\iron-\Documents\C# Course\bin\Debug\netcoreapp3.1\C# Course.deps.json
+C:\Users\iron-\Documents\C# Course\bin\Debug\netcoreapp3.1\C# Course.runtimeconfig.json
+C:\Users\iron-\Documents\C# Course\bin\Debug\netcoreapp3.1\C# Course.runtimeconfig.dev.json
+C:\Users\iron-\Documents\C# Course\bin\Debug\netcoreapp3.1\C# Course.dll
+C:\Users\iron-\Documents\C# Course\bin\Debug\netcoreapp3.1\C# Course.pdb
+C:\Users\iron-\Documents\C# Course\obj\Debug\netcoreapp3.1\C# Course.csprojAssemblyReference.cache
+C:\Users\iron-\Documents\C# Course\obj\Debug\netcoreapp3.1\C# Course.AssemblyInfoInputs.cache
+C:\Users\iron-\Documents\C# Course\obj\Debug\netcoreapp3.1\C# Course.AssemblyInfo.cs
+C:\Users\iron-\Documents\C# Course\obj\Debug\netcoreapp3.1\C# Course.csproj.CoreCompileInputs.cache
+C:\Users\iron-\Documents\C# Course\obj\Debug\netcoreapp3.1\C# Course.dll
+C:\Users\iron-\Documents\C# Course\obj\Debug\netcoreapp3.1\C# Course.pdb
+C:\Users\iron-\Documents\C# Course\obj\Debug\netcoreapp3.1\C# Course.genruntimeconfig.cache
